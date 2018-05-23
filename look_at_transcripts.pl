@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w 
 use strict;
-use lib ('/sonas-hs/ware/hpc/home/mcampbel/lib');
+#use lib ('/sonas-hs/ware/hpc/home/mcampbel/lib');
 use PostData;
 use Getopt::Std;
 use vars qw($opt_h $opt_c $opt_e $opt_i $opt_r $opt_t $opt_f $opt_a);
